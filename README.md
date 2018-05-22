@@ -5,3 +5,4 @@
 ![footer](https://user-images.githubusercontent.com/39157319/40359320-f061ec8a-5ddf-11e8-9ef1-b644b959f515.png)
 ![responsive](https://user-images.githubusercontent.com/39157319/40361340-980c71a2-5de6-11e8-8dec-b7802ae5b00a.png)
 ![responsivecontent](https://user-images.githubusercontent.com/39157319/40361419-ea020eea-5de6-11e8-9717-511b956190a3.png)
+![responsivefooter](https://user-images.githubusercontent.com/39157319/40361488-1b04fbec-5de7-11e8-91d6-ece531aca47a.png)
